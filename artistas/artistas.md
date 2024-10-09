@@ -1,7 +1,7 @@
 # artistas
 ## Cantantes
 
-Jhonny Silverhand
+# Jhonny Silverhand
 ![Jhonny Silverhand](img/Jhonny.jpg)
-Jigglypuff
+# Jigglypuff
 ![Jiglypuff](img/jigly.png)
